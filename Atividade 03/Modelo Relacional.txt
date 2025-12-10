@@ -1,0 +1,32 @@
+ CRIAR BANCO DE DADOS: grau_tec
+USAR grau_tec
+
+Criar Tabela: aluno
+	- cpf;
+	- nome;
+	- data_nascimento;
+
+Criar Tabela: professor
+	- id;
+	- nome;
+	- formacao;
+	- idade;
+
+Criar Tabela: curso
+	- id;
+	- nome_curso;
+	- duracao;
+
+Criar Tabela: materia
+	- id;
+	- nome_materia;
+	- id_curso;
+	- id_professor
+	- carga_horária;
+
+Criar Tabela: matricula
+	- id;
+	- id_aluno;
+	- id_curso;
+	- id_materia_atual;
+	- data_matricula;

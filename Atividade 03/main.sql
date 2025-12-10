@@ -1,3 +1,6 @@
+CREATE DATABASE grau_tec;
+USE grau_tec;
+
 CREATE TABLE aluno(
     cpf VARCHAR(20) PRIMARY KEY,
     nome VARCHAR(50) NOT NULL,

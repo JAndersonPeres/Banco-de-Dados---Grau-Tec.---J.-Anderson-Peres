@@ -1,0 +1,13 @@
+- O que são dados?
+	São valores importantes para o funcionamento do sistema, geral vindos em tipos simples (int, float, string, etc).
+
+- O que são Informações?
+	São dados que foram lapidados e coloocados em um contexto.
+
+- O que é um banco de dados?
+	É um local onde está armazenado os dados importantes para o funcinamento do sistema, geralmente colocados em uma estrutura inter-relacional.
+
+- Analogia:
+	Dado: 'Anderson';
+	Informação: Ele tem 25 anos de idade;
+	Banco de Dados: Banco que armazena o nome e a idade de uma pessoa.
